@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning... about [quantum computing](https://scottaaronson.com/democritus/lec9.html) :atom:
 - 👯 I’m looking to collaborate on...
   + Low-latency decentralized random beacons from verifiable delay functions (VDFs) 🎲
-  + Account management in cryptocurrencies 👨
+  + Key management in cryptocurrencies 👨
 - 🤔 I’m looking for help with... my citation keys, [`ck`](https://github.com/alinush/ck), tool for bibliography management 📚
 - 💬 Ask me about... motorcycles 🏍️!
 - 📫 How to reach me: DM on Twitter at [@alinush407](https://twitter.com/alinush407)

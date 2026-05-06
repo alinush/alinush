@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on... applied cryptography 🔐 in Rust and [Move](https://aptos.dev/move/move-on-aptos)
 - 🌱 I’m currently hoping for time to learn more about... [quantum computing](https://scottaaronson.com/democritus/lec9.html), coding theory, number theory, and more :atom:
 - 👯 I’m looking to collaborate on...
-  + Low-latency decentralized random beacons from verifiable delay functions (VDFs) 🎲
   + [Keyless accounts](https://alinush.org/keyless) 👨
   + zkSNARKs for small circuits (e.g., 1-1.5M R1CS constraints)
 - 🤔 I’m looking for help with... my citation keys, [`ck`](https://github.com/alinush/ck), tool for bibliography management 📚
